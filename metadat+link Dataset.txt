@@ -1,0 +1,21 @@
+https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india>>> link dataset
+
+
+
+this metadata
+
+Name: Monthly Unemployment and Labor Data for Andhra Pradesh
+
+Description: This dataset provides monthly data on the unemployment rate, estimated employment, and labor participation rate for the region of Andhra Pradesh, India, for the year 2020. The data includes information on the geographic location of the region.
+
+Attributes:
+
+Region: (String) The region for which the data is collected (e.g., Andhra Pradesh).
+Date: (Date) The date representing the end of the data collection period (format: DD-MM-YYYY).
+Frequency: (String) Data frequency indicator (e.g., 'M' for monthly).
+Estimated Unemployment Rate (%): (Float) The estimated unemployment rate for the region, represented as a percentage.
+Estimated Employed: (Integer) The estimated number of employed individuals in the region.
+Estimated Labour Participation Rate (%): (Float) The estimated labor participation rate, represented as a percentage.
+Region: (String) Indicates the broader geographic region (e.g., 'South').
+longitude: (Float) The longitudinal coordinate of the region.
+latitude: (Float) The latitudinal coordinate of the region.
